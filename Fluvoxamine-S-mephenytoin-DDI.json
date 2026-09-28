@@ -1550,13 +1550,6 @@
             "Source": "Database",
             "Description": "DrugBank DB00176"
           }
-        },
-        {
-          "Name": "Use bile salt micellization",
-          "Value": 0.0,
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
         }
       ]
     },
@@ -1702,13 +1695,6 @@
           "ValueOrigin": {
             "Source": "Database",
             "Description": "DrugBank DB00532"
-          }
-        },
-        {
-          "Name": "Use bile salt micellization",
-          "Value": 0.0,
-          "ValueOrigin": {
-            "Source": "Unknown"
           }
         }
       ]
